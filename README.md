@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/e374677bcea8e624fe954b1bf81348f9bb4390df/68747470733a2f2f696b2e696d6167656b69742e696f2f6361706974616f2f50726f6666792f6e6c77325f36643750766c485a352e737667" width="150" data-canonical-src="https://ik.imagekit.io/capitao/Proffy/nlw2_6d7PvlHZ5.svg" style="max-width:100%;">
+  <img src="https://camo.githubusercontent.com/e374677bcea8e624fe954b1bf81348f9bb4390df/68747470733a2f2f696b2e696d6167656b69742e696f2f6361706974616f2f50726f6666792f6e6c77325f36643750766c485a352e737667" width="150" style="max-width:100%;">
 </p>
 <h2>
   <a id="user-content--índice" class="anchor" aria-hidden="true" href="#-índice">
@@ -63,4 +63,13 @@
   </a>
   <g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥</g-emoji> Preview
 </h2>
-<p>
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/69214919/89739509-b01e3100-da57-11ea-9653-1cfd42bfd78c.png" width="700" style="max-width:100%;">
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/69214919/89739511-b2808b00-da57-11ea-8c5d-c3d312041dae.png" width="700" style="max-width:100%;">
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/69214919/89739512-b3192180-da57-11ea-92c4-46b2bf20fc68.png" width="700" style="max-width:100%;">
+</p>
